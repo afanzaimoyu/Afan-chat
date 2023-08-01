@@ -1,0 +1,29 @@
+# Ignore macOS .DS_Store files
+.DS_Store
+
+# Ignore Node.js dependencies
+/web/node_modules
+/web/package-lock.json
+/web/yarn.lock
+
+# Ignore build output directory
+/web/dist
+
+# Ignore local environment files
+/web/.env.local
+/web/.env.*.local
+
+# Ignore log files
+/web/npm-debug.log*
+/web/yarn-debug.log*
+/web/yarn-error.log*
+/web/pnpm-debug.log*
+
+# Ignore editor directories and files
+/web/.idea
+/web/.vscode
+/web/*.suo
+/web/*.ntvs*
+/web/*.njsproj
+/web/*.sln
+/web/*.sw?
