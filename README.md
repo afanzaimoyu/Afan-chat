@@ -21,7 +21,7 @@
 ## 项目导航
 
 - **快速体验地址**：暂无
-- **前端项目仓库**：[MallChatWeb](https://github.com/afanzaimoyu/Afan-chat/web)
+- **前端项目仓库**：[Afan-chat](https://github.com/afanzaimoyu/Afan-chat/tree/master/web)
 - **项目学习文档**：暂无
 - **码云仓库**：暂无
 
@@ -33,7 +33,7 @@
 
 #### C端项目
 
-- 前端源码地址：[https://github.com/afanzaimoyu/Afan-chat/web](https://github.com/afanzaimoyu/Afan-chat/web)
+- 前端源码地址：[https://github.com/afanzaimoyu/Afan-chat/tree/master/web](https://github.com/afanzaimoyu/Afan-chat/tree/master/web)
 - 项目演示地址：暂无
 
 ### 技术选型
