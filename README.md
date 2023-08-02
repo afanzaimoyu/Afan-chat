@@ -10,7 +10,7 @@
     <a href="https://github.com/afanzaimoyu/Afan-chat/issues" target="_blank">
         <img alt="Issues" src="https://img.shields.io/github/issues/zongzibinbin/Afan-chat">
     </a> 
-    <a href="https://github.com/afanzaimoyu/Afan-chat/main/LICENSE" target="_blank">
+    <a href="https://github.com/afanzaimoyu/Afan-chat/master/LICENSE" target="_blank">
         <img alt="License: Apache-2.0" src="https://img.shields.io/badge/License-Apache--2.0-blue.svg">
     </a> 
     <a href="https://github.com/afanzaimoyu/Afan-chat/stargazers" target="_blank">
@@ -48,7 +48,9 @@
 
 ## star 趋势图
 
-![Stargazers over time](https://starchart.cc/afanzaimoyu/Afan-chat.svg)
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=afanzaimoyu/Afan-chat&type=Timeline)](https://star-history.com/#afanzaimoyu/Afan-chat&Timeline)
 
 ## License
 

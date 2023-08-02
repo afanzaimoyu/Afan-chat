@@ -1,19 +1,18 @@
 <template>
   <div id="app" @mousedown="windowMove(true)" @mouseup="windowMove(false)">
-    <div>aaaaaa</div>
-    <!--    <Home></Home>-->
+        <Home></Home>
   </div>
 </template>
 
 <script>
 import "@/assets/font/font.css"
-// import Home from './view/home.vue'
+import Home from '@/views/home.vue'
 import {isPc} from '@/util/util.js'
 
 export default {
   name: 'App',
   components: {
-    // Home
+    Home
   },
   methods: {
     windowMove(canMove) {
